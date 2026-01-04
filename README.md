@@ -1,5 +1,3 @@
-# Reeadme.md 
-
 # Marvel Doomsday Countdown
 
 [![Marvel Repo](https://img.shields.io/badge/REPO-Marvel--Doomsday--Countdown-red?style=for-the-badge&logo=github)](https://github.com/Jackson202-svg/Marvel-doomsday-countdown-)

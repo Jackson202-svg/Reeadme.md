@@ -2,24 +2,4 @@
 If you want link to my website
 [HTML-countdown-timer](https://jackson202-svg.github.io/HTML-countdown-timer/)
 
-<meta http-equiv="refresh" content="0; URL='https://github.com/Jackson202-svg/Marvel-doomsday-countdown-'" />
-<p>Redirecting you to <a href="https://github.com/Jackson202-svg/Marvel-doomsday-countdown-">Marvel Doomsday Countdown</a>...</p>
-
-
-<meta http-equiv="refresh" content="3; URL='https://github.com/Jackson202-svg/Marvel-doomsday-countdown-'" />
-
-<div style="text-align: center; margin-top: 50px; font-family: sans-serif;">
-    <p>Redirecting you in 3 seconds...</p>
-    
-    <a href="https://github.com/Jackson202-svg/Marvel-doomsday-countdown-" 
-       style="background-color: #2da44e; 
-              color: white; 
-              padding: 12px 20px; 
-              text-decoration: none; 
-              border-radius: 6px; 
-              font-weight: bold; 
-              display: inline-block;
-              border: 1px solid rgba(27, 31, 36, 0.15);">
-        Go to Marvel Doomsday Countdown
-    </a>
-</div>
+[![Marvel Countdown](https://img.shields.io/badge/OPEN-Marvel--Doomsday--Countdown-red?style=for-the-badge&logo=github)](https://github.com/Jackson202-svg/Marvel-doomsday-countdown-)

@@ -21,7 +21,4 @@ This is link to thing and this can help you with thing you need
 
 [![spotDL](https://opengraph.githubassets.com/1/spotDL/spotify-downloader)](https://github.com/spotDL/spotify-downloader)
 
-<details>
-  <summary>▶️ Click to Play Audio</summary>
-  <video src="https://raw.githubusercontent.com/Jackson202-svg/MP3-file-/refs/heads/main/Morgan%20Wallen%20-%20You%20Proof.mp3" controls width="100%"></video>
-</details>
+[<img src="https://img.shields.io/badge/Play_Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="200">](https://raw.githubusercontent.com/Jackson202-svg/MP3-file-/refs/heads/main/Morgan%20Wallen%20-%20You%20Proof.mp3)

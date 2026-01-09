@@ -16,5 +16,5 @@
 ---
 
 <a href="https://github.com/designmodo/html-website-templates">
-    <img src="https://img.shields.io/github/stars/designmodo/html-website-templates?style=social" alt="GitHub Stars">
+    <img src="https://opengraph.githubassets.com/1/designmodo/html-website-templates" alt="GitHub Repo Preview" style="width:100%; max-width:600px;">
 </a>

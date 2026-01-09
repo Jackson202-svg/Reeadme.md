@@ -17,3 +17,5 @@
 <a href="https://github.com/designmodo/html-website-templates">
     <img src="https://opengraph.githubassets.com/1/designmodo/html-website-templates" alt="GitHub Repo Preview" style="width:100%; max-width:600px;">
 </a>
+
+[![spotDL](https://opengraph.githubassets.com/1/spotDL/spotify-downloader)](https://github.com/spotDL/spotify-downloader)

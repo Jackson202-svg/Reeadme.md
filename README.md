@@ -17,5 +17,5 @@ This is link to thing and this can help you with thing you need
 [![Rolimons](https://img.shields.io/badge/ROLIMONS-Players_Search-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)
 
 <a href="https://github.com/designmodo/html-website-templates">
-    <img src="https://img.shields.io/github/stars/designmodo/html-website-templates?style=social" alt="GitHub Stars">
+    <img src="https://opengraph.githubassets.com/1/designmodo/html-website-templates" alt="GitHub Repo Preview" style="width:100%; max-width:600px;">
 </a>

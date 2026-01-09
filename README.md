@@ -15,10 +15,3 @@ This is link to thing and this can help you with thing you need
 [![Spotify 2](https://img.shields.io/badge/Spotify-Link_2-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ZbJv4DE10jXfWMwOynr1W?si=q_hA-N9wT12c5gXXNfwj8g&pi=EDtGiF66QsaMq)
 ### 👤 Profiles
 [![Rolimons](https://img.shields.io/badge/ROLIMONS-Players_Search-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)
-
-# Youtube video
-[![Watch "You Proof" by Morgan Wallen](https://img.youtube.com/vi/Fv9jTkGQJaQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fv9jTkGQJaQ)
-
-[![spotDL](https://opengraph.githubassets.com/1/spotDL/spotify-downloader)](https://github.com/spotDL/spotify-downloader)
-
-[<img src="https://img.shields.io/badge/Play_Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="200">](https://raw.githubusercontent.com/Jackson202-svg/MP3-file-/refs/heads/main/Morgan%20Wallen%20-%20You%20Proof.mp3)

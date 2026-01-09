@@ -1,3 +1,8 @@
+# About 
+This is link to thing and this can help you with thing you need 
+
+'<h1>'
+
 # 🚀 My Project Dashboard
 
 ### 🎮 Games & Tools

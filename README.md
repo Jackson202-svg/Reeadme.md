@@ -14,3 +14,7 @@
 [![Rolimons](https://img.shields.io/badge/ROLIMONS-Players_Search-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)
 
 ---
+
+<a href="https://github.com/designmodo/html-website-templates">
+    <img src="https://img.shields.io/github/stars/designmodo/html-website-templates?style=social" alt="GitHub Stars">
+</a>

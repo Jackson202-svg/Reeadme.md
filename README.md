@@ -19,11 +19,25 @@ This is link to thing and this can help you with thing you need
 <a href="https://github.com/designmodo/html-website-templates">
     <img src="https://opengraph.githubassets.com/1/designmodo/html-website-templates" alt="GitHub Repo Preview" style="width:100%; max-width:600px;">
 </a>
+
 <a href="https://jackson202-svg.github.io/Fps/" target="_blank" style="text-decoration: none;">
     <div style="text-align: center; font-family: sans-serif;">
         <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80" 
              alt="FPS Project" 
              style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); border: 2px solid #333;">
         <p style="margin-top: 10px; color: #333; font-weight: bold;">Launch FPS Project</p>
+    </div>
+</a>
+
+<a href="https://suno.com/@ck62zc29cw" target="_blank" style="text-decoration: none; display: inline-block; font-family: sans-serif;">
+    <div style="border: 1px solid #ddd; border-radius: 15px; overflow: hidden; width: 300px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: 0.3s;">
+        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=300&q=80" 
+             alt="Suno AI Artist Profile" style="width: 100%; height: 180px; object-fit: cover;">
+        <div style="padding: 15px; text-align: center; background: white;">
+            <strong style="color: #333; font-size: 18px;">@ck62zc29cw on Suno</strong>
+            <div style="margin-top: 10px; padding: 8px 15px; background: #000; color: #fff; border-radius: 20px; font-size: 14px; font-weight: bold;">
+                Listen to Music
+            </div>
+        </div>
     </div>
 </a>

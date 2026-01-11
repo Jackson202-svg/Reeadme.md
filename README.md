@@ -19,4 +19,11 @@ This is link to thing and this can help you with thing you need
 <a href="https://github.com/designmodo/html-website-templates">
     <img src="https://opengraph.githubassets.com/1/designmodo/html-website-templates" alt="GitHub Repo Preview" style="width:100%; max-width:600px;">
 </a>
-[![FPS Project](https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80)](https://jackson202-svg.github.io/Fps/)
+<a href="https://jackson202-svg.github.io/Fps/" target="_blank" style="text-decoration: none;">
+    <div style="text-align: center; font-family: sans-serif;">
+        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80" 
+             alt="FPS Project" 
+             style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); border: 2px solid #333;">
+        <p style="margin-top: 10px; color: #333; font-weight: bold;">Launch FPS Project</p>
+    </div>
+</a>

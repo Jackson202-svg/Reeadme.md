@@ -2,26 +2,58 @@
 
 Welcome to my central hub. I'm a developer and creator building web tools, music, and gaming experiences.
 
+## 📑 Table of Contents
+| Section | Description |
+| :--- | :--- |
+| [🌟 Featured Projects](#-featured-projects) | Latest releases and main highlights |
+| [📺 Media & YouTube](#-media--youtube) | Video content and channel links |
+| [🕹️ Profiles & Socials](#️-profiles--socials) | Gaming and music profiles |
+| [🛠️ Developer Resources](#️-developer-resources--repos) | Repositories and coding tools |
+| [📊 My Coding Stats](#-my-coding-stats) | Real-time GitHub contribution data |
+| [💻 Tech Stack](#-tech-stack) | Languages and tools I use |
+
 ---
 
-### 🌟 Featured Release
-<a href="https://suno.com/s/j6B2hvvceqkIwK8o" target="_blank">
-  <img src="https://img.shields.io/badge/NEW_TRACK-Listen_on_Suno-FF0050?style=for-the-badge&logo=suno&logoColor=white" alt="New Track">
-</a>
+### 🌟 Featured Projects
+<p align="left">
+  <a href="https://suno.com/s/j6B2hvvceqkIwK8o" target="_blank">
+    <img src="https://img.shields.io/badge/NEW_TRACK-Listen_on_Suno-FF0050?style=for-the-badge&logo=suno&logoColor=white" alt="New Track">
+  </a>
+</p>
 
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://jackson202-svg.github.io/Fps/">
-        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80" alt="FPS Project" style="border-radius:12px; border:1px solid #444;">
-        <br><strong>🎮 Launch FPS Project</strong>
+        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80" width="100%" alt="FPS Project" style="border-radius:12px; border:1px solid #444;">
+        <br><kbd><b>🎮 Launch FPS Project</b></kbd>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://suno.com/s/j6B2hvvceqkIwK8o">
-        <img src="https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&w=600&q=80" alt="Latest Song" style="border-radius:12px; border:1px solid #444;">
-        <br><strong>🎵 Latest Track: Listen Now</strong>
+        <img src="https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&w=600&q=80" width="100%" alt="Latest Song" style="border-radius:12px; border:1px solid #444;">
+        <br><kbd><b>🎵 Latest Track: Listen Now</b></kbd>
       </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📺 Media & YouTube
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+        <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="100%" alt="Watch Video" style="border-radius:12px; border:1px solid #444;">
+        <br><kbd><b>📺 Watch Latest Video</b></kbd>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.youtube.com/@YOUR_CHANNEL">
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+      </a>
+      <p>Click above to visit my channel for development vlogs and music releases.</p>
     </td>
   </tr>
 </table>
@@ -65,3 +97,5 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 <p align="center">
   <img src="https://opengraph.githubassets.com/1/Jackson202-svg/Marvel-doomsday-countdown-" alt="Repo Preview" width="100%" style="border-radius:10px;">
 </p>
+
+<p align="right"><a href="#-my-project-dashboard">⬆ Back to Top</a></p>

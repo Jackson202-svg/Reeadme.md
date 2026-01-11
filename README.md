@@ -12,7 +12,7 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 | [📊 My Coding Stats](#-my-coding-stats) | Real-time GitHub contribution data |
  [📼 Youtube video ](#-youtube-video) | Youtube video link |
 
-[🔗 ReadMe.md link](#-readme-link) | ReadMe.md link  |
+[🔗 ReadMe link]( #-link) | ReadMe.md link  |
 ---
 
 ### 🌟 Featured Projects
@@ -123,5 +123,6 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 
 <p align="right"><a href="#-my-project-dashboard">⬆ Back to Top</a></p>
 
-# ReadMe link 
+# link 
+This is a readme link 
 https://github.com/Jackson202-svg/Link-to-ReadMe.md-

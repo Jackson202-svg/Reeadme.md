@@ -35,9 +35,9 @@ This is link to thing and this can help you with thing you need
              alt="Suno AI Artist Profile" style="width: 100%; height: 180px; object-fit: cover;">
         <div style="padding: 15px; text-align: center; background: white;">
             <strong style="color: #333; font-size: 18px;">@ck62zc29cw on Suno</strong>
-            <div style="margin-top: 10px; padding: 8px 15px; background: #000; color: #fff; border-radius: 20px; font-size: 14px; font-weight: bold;">
-                Listen to Music
-            </div>
+           
+                
+            
         </div>
     </div>
 </a>

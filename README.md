@@ -28,13 +28,18 @@ This is link to thing and this can help you with thing you need
         <p style="margin-top: 10px; color: #333; font-weight: bold;">Launch FPS Project</p>
     </div>
 </a>
-
 <a href="https://suno.com/@ck62zc29cw" target="_blank" style="text-decoration: none; display: inline-block; font-family: sans-serif;">
     <div style="border: 1px solid #ddd; border-radius: 15px; overflow: hidden; width: 300px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: 0.3s;">
         <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=300&q=80" 
              alt="Suno AI Artist Profile" style="width: 100%; height: 180px; object-fit: cover;">
         <div style="padding: 15px; text-align: center; background: white;">
             <strong style="color: #333; font-size: 18px;">@ck62zc29cw on Suno</strong>
+            <div style="margin-top: 10px; padding: 8px 15px; background: #000; color: #fff; border-radius: 20px; font-size: 14px; font-weight: bold;">
+                Listen to Music
+            </div>
+        </div>
+    </div>
+</a>
            
                 
             

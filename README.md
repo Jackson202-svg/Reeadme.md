@@ -1,24 +1,26 @@
 # 🚀 My Project Dashboard
 
-Welcome to my central hub! I am a developer and creator focused on building web tools, gaming projects, and AI-driven music.
+Welcome to my central hub. I'm a developer and creator building web tools, music, and gaming experiences.
 
 ---
 
-### 🎵 Featured Music Releases
-Listen to my latest tracks created with Suno AI:
+### 🌟 Featured Release
+<a href="https://suno.com/s/j6B2hvvceqkIwK8o" target="_blank">
+  <img src="https://img.shields.io/badge/NEW_TRACK-Listen_on_Suno-FF0050?style=for-the-badge&logo=suno&logoColor=white" alt="New Track">
+</a>
 
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://suno.com/s/KSPNWppTulROes0P" target="_blank">
-        <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=600&q=80" alt="Track 1" style="border-radius:12px; border:1px solid #444;">
-        <br><strong>🎶 Listen: KSPNWppTul...</strong>
+      <a href="https://jackson202-svg.github.io/Fps/">
+        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80" alt="FPS Project" style="border-radius:12px; border:1px solid #444;">
+        <br><strong>🎮 Launch FPS Project</strong>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://suno.com/s/CPSi2Ply4YNUyoEV" target="_blank">
-        <img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&w=600&q=80" alt="Track 2" style="border-radius:12px; border:1px solid #444;">
-        <br><strong>🎸 Listen: CPSi2Ply4Y...</strong>
+      <a href="https://suno.com/s/j6B2hvvceqkIwK8o">
+        <img src="https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&w=600&q=80" alt="Latest Song" style="border-radius:12px; border:1px solid #444;">
+        <br><strong>🎵 Latest Track: Listen Now</strong>
       </a>
     </td>
   </tr>
@@ -34,17 +36,17 @@ Listen to my latest tracks created with Suno AI:
 
 ---
 
-### 🛠️ Developer Resources & Tools
+### 🛠️ Developer Resources & Repos
 | Project / Resource | Description | Status |
 | :--- | :--- | :--- |
-| **FPS Project** | High-performance FPS tool | [Launch Live](https://jackson202-svg.github.io/Fps/) |
-| **Public APIs** | Essential list for developers | [View Repo](https://github.com/public-apis/public-apis) |
 | **Marvel Countdown** | Red-themed doomsday timer | [GitHub](https://github.com/Jackson202-svg/Marvel-doomsday-countdown-) |
+| **Public APIs** | Essential list for developers | [View Repo](https://github.com/public-apis/public-apis) |
 | **FPS Counter** | Real-time browser performance | [Live Demo](https://jackson202-svg.github.io/Fps-counter.GitHub.io/) |
+| **HTML Templates** | Web design starters | [Explore](https://github.com/designmodo/html-website-templates) |
 
 ---
 
-### 📊 GitHub Insights
+### 📊 My Coding Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jackson202-svg&show_icons=true&theme=radical&hide_border=true" alt="Jackson's Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson202-svg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />

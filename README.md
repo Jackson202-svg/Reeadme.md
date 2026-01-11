@@ -12,26 +12,7 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 | [📊 My Coding Stats](#-my-coding-stats) | Real-time GitHub contribution data |
 | [💻 Tech Stack](#-tech-stack) | Languages and tools I use |
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=kH1XlwHQv9o">
-        <img src="https://img.youtube.com/vi/kH1XlwHQv9o/maxresdefault.jpg" width="100%" alt="Avengers: Doomsday Trailer" style="border-radius:12px; border:1px solid #444;">
-        <br><kbd><b>🎬 Avengers: Doomsday Official Trailer</b></kbd>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://www.youtube.com/@marvel">
-        <img src="https://img.shields.io/badge/YouTube-Marvel_Entertainment-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Marvel YouTube">
-      </a>
-      <p>Stay updated with official Marvel trailers and developer spotlights.</p>
-      <hr>
-      <a href="https://www.youtube.com/watch?v=xaktHJ8EPk0">
-        <kbd><b>💡 Learn to build GitHub Profiles</b></kbd>
-      </a>
-    </td>
-  </tr>
-</table>
+
 ---
 
 ### 🌟 Featured Projects
@@ -80,6 +61,27 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 
 ---
 
+# Youtube videi link 
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=kH1XlwHQv9o">
+        <img src="https://img.youtube.com/vi/kH1XlwHQv9o/maxresdefault.jpg" width="100%" alt="Avengers: Doomsday Trailer" style="border-radius:12px; border:1px solid #444;">
+        <br><kbd><b>🎬 Avengers: Doomsday Official Trailer</b></kbd>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.youtube.com/@marvel">
+        <img src="https://img.shields.io/badge/YouTube-Marvel_Entertainment-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Marvel YouTube">
+      </a>
+      <p>Stay updated with official Marvel trailers and developer spotlights.</p>
+      <hr>
+      <a href="https://www.youtube.com/watch?v=xaktHJ8EPk0">
+        <kbd><b>💡 Learn to build GitHub Profiles</b></kbd>
+      </a>
+    </td>
+  </tr>
+</table>
 ### 🕹️ Profiles & Socials
 [![Roblox](https://img.shields.io/badge/Roblox-Profile-white?style=for-the-badge&logo=roblox&logoColor=red)](https://www.roblox.com/share?code=e3d9e9619cfd1c4f98e232b407bd6d1e&type=Profile)
 [![Rolimons](https://img.shields.io/badge/Rolimons-Player_Stats-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)

@@ -10,11 +10,7 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 | [🕹️ Profiles & Socials](#️-profiles--socials) | Gaming and music profiles |
 | [🛠️ Developer Resources](#️-developer-resources--repos) | Repositories and coding tools |
 | [📊 My Coding Stats](#-my-coding-stats) | Real-time GitHub contribution data |
-| [💻 Tech Stack](#-tech-stack) | Languages and tools I use |
-| [📼 youtube video]( #-youtube-video)
-| Youtube video link |
-
-
+ [📊 My Coding Stats](#-youtube-video) | 📼 Youtube video link |
 ---
 
 ### 🌟 Featured Projects

@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jackson!
+# 🚀 Welcome to Jackson's Workspace
 
-This is my project dashboard where I track my tools, gaming experiments, and creative projects.
+A passionate developer focused on web tools, gaming projects, and music.
 
 ---
 
@@ -24,16 +24,28 @@ This is my project dashboard where I track my tools, gaming experiments, and cre
 
 ---
 
-### 🛠 Tools & Repositories
-| Project | Status | Link |
-| :--- | :--- | :--- |
-| **Marvel Countdown** | ![Repo](https://img.shields.io/badge/REPO-Marvel-red?style=flat-square&logo=github) | [GitHub](https://github.com/Jackson202-svg/Marvel-doomsday-countdown-) |
-| **FPS Counter** | ![Live](https://img.shields.io/badge/LIVE-FPS_Counter-green?style=flat-square&logo=githubpages) | [Open Tool](https://jackson202-svg.github.io/Fps-counter.GitHub.io/) |
-| **Countdown Timer** | ![Live](https://img.shields.io/badge/LIVE-Timer-blue?style=flat-square&logo=googlechrome) | [Open Tool](https://jackson202-svg.github.io/HTML-countdown-timer/) |
+### 🕹️ Roblox & Socials
+[![Roblox Profile](https://img.shields.io/badge/Roblox-My_Profile-white?style=for-the-badge&logo=roblox&logoColor=red)](https://www.roblox.com/share?code=e3d9e9619cfd1c4f98e232b407bd6d1e&type=Profile)
+[![Rolimons](https://img.shields.io/badge/ROLIMONS-Trading_Stats-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)
+[![Spotify](https://img.shields.io/badge/Spotify-My_Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yvp1meah6n3lzt7ggkrlbygbz?si=XOO61yPUTsq4cw0ENP8HaA)
 
-### 🎵 Socials & Links
-[![Spotify](https://img.shields.io/badge/Spotify-Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yvp1meah6n3lzt7ggkrlbygbz?si=XOO61yPUTsq4cw0ENP8HaA)
-[![Rolimons](https://img.shields.io/badge/ROLIMONS-Roblox_Search-orange?style=for-the-badge&logo=roblox&logoColor=white)](https://www.rolimons.com/players)
+---
+
+### 🛠️ Development & Resources
+| Resource | Description | Link |
+| :--- | :--- | :--- |
+| **Marvel Countdown** | Red-themed countdown tool | [GitHub](https://github.com/Jackson202-svg/Marvel-doomsday-countdown-) |
+| **FPS Counter** | Live web performance tool | [Launch](https://jackson202-svg.github.io/Fps-counter.GitHub.io/) |
+| **Public APIs** | Huge list of free APIs for devs | [View Repo](https://github.com/public-apis/public-apis) |
+| **HTML Templates** | Web design resources | [View Repo](https://github.com/designmodo/html-website-templates) |
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Jackson202-svg&show_icons=true&theme=radical&hide_border=true" alt="Jackson's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson202-svg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -45,13 +57,6 @@ This is my project dashboard where I track my tools, gaming experiments, and cre
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Jackson202-svg&show_icons=true&theme=radical" alt="Jackson's GitHub Stats" />
-</p>
-
----
-
 <p align="center">
-  <img src="https://opengraph.githubassets.com/1/Jackson202-svg/Marvel-doomsday-countdown-" alt="Repo Preview" width="100%">
+  <img src="https://opengraph.githubassets.com/1/Jackson202-svg/Marvel-doomsday-countdown-" alt="Repo Preview" width="100%" style="border-radius:10px;">
 </p>

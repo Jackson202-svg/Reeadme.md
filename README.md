@@ -11,6 +11,8 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
 | [🛠️ Developer Resources](#️-developer-resources--repos) | Repositories and coding tools |
 | [📊 My Coding Stats](#-my-coding-stats) | Real-time GitHub contribution data |
 | [💻 Tech Stack](#-tech-stack) | Languages and tools I use |
+| [📼 youtube video]( #-youtube-video)
+Youtube video link |
 
 
 ---
@@ -58,6 +60,8 @@ Welcome to my central hub. I'm a developer and creator building web tools, music
     </td>
   </tr>
 </table>
+
+# Youtube video link 
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
